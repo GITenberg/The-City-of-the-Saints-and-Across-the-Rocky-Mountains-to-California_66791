@@ -1,0 +1,34 @@
+_repo: The-City-of-the-Saints-and-Across-the-Rocky-Mountains-to-California_66791
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Burton, Sir Richard Francis
+    - Baker, Frank
+    - Burton, R. F. (Richard F.), Sir
+    - Burton, Richard F.
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Francis_Burton
+description: ''
+gutenberg_issued: '2021-11-22'
+identifiers:
+  gutenberg: '66791'
+  lccn: '19005242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utah -- Description and travel'
+- !lcc 'F786'
+- !lcsh 'Mormons -- Utah -- History -- 19th century'
+- !lcsh 'Salt Lake City (Utah) -- History'
+- !lcsh 'Burton, Richard Francis, Sir, 1821-1890 -- Travel -- Utah'
+- !lcsh 'Overland journeys to the Pacific'
+- GITenberg
+title: The City of the Saints, and Across the Rocky Mountains to California
+url: http://www.gutenberg.org/ebooks/66791
